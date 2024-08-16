@@ -29,14 +29,16 @@ I'm Ahmed, a software developer, and I work out to get better in this field. Wel
 ### Badges
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![React Badge](https://img.shields.io/badge/React-Intermediate-blue)
-![Python Badge](https://img.shields.io/badge/React-Expert-blue)
+![ReactJs Badge](https://img.shields.io/badge/ReactJs-Intermediate-blue)
+![Nextjs Badge](https://img.shields.io/badge/NextJs-Intermediate-blue)
+![Epressjs Badge](https://img.shields.io/badge/Epressjs-Intermediate-blue)
+![NodeJS Badge](https://img.shields.io/badge/NodeJS-Intermediate-blue)
 
 ### Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ahmad-diaa-54b406309)
-- [Twitter](https://twitter.com/janedoe)
-- [Personal Website](https://janedoe.dev)
+- [Instgram](https://www.instagram.com/ahmad___diaa/)
+
 
 ### Thanks for visiting! 🙌
 
