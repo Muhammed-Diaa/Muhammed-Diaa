@@ -21,8 +21,7 @@ I'm Ahmed, a software developer, and I work out to get better in this field. Wel
 
 ![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janedoe&&theme=dark&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ### Skills
 
 - **Languages:** HTML, Css, JavaScript
