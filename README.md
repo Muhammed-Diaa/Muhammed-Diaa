@@ -18,9 +18,8 @@ I'm Ahmed, a software developer, and I work out to get better in this field. Wel
 - [Python Data Analysis](https://github.com/janedoe/data-analysis) - A collection of data analysis projects using Python.
 
 ### GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&show&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 ### Skills
 
 - **Languages:** HTML, Css, JavaScript
