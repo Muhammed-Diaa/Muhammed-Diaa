@@ -3,17 +3,13 @@
 I'm Ahmed, a software developer, and I work out to get better in this field. Welcome to my GitHub profile!
 
 
-## Hi there! 👋
-
-I'm Jane Doe, a Full Stack Developer with a passion for building impactful web applications. Welcome to my GitHub profile!
-
 ### About Me
 
-- 🌱 I’m currently learning TypeScript and exploring Machine Learning.
+- 🌱 I’m currently learning TypeScript and exploring web development.
 - 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with optimizing React performance.
-- 💬 Ask me about web development, React, or Python.
-- 📫 How to reach me: [janedoe@example.com](mailto:janedoe@example.com)
+- 🤔 I’m looking for help with optimizing responsive UI designs.
+- 💬 Ask me about web development, React, or Express.
+- 📫 How to reach me: [ahmad.diaa1972@gmail.com](mailto:ahmad.diaa1972@gmail.com)
 
 ### Pinned Projects
 
@@ -24,22 +20,24 @@ I'm Jane Doe, a Full Stack Developer with a passion for building impactful web a
 ### GitHub Stats
 
 ![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janedoe&layout=compact&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janedoe&&theme=dark&show_icons=true)
 
 ### Skills
 
-- **Languages:** JavaScript, Python, Java, SQL
-- **Frameworks:** React, Node.js, Django, Flask
-- **Tools:** Git, Docker, Jenkins, AWS
+- **Languages:** HTML, Css, JavaScript
+- **Frameworks:** ReactJS, NextJS, ExpressJS, Node.js, 
+- **Tools:** Git, MongoDB, Vite,
 
 ### Badges
 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![Python Badge](https://img.shields.io/badge/Python-Intermediate-blue)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![React Badge](https://img.shields.io/badge/React-Intermediate-blue)
+![Python Badge](https://img.shields.io/badge/React-Expert-blue)
 
 ### Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/janedoe)
+- [LinkedIn](https://www.linkedin.com/in/ahmad-diaa-54b406309)
 - [Twitter](https://twitter.com/janedoe)
 - [Personal Website](https://janedoe.dev)
 
