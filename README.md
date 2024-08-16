@@ -28,7 +28,7 @@ I'm Ahmed, a software developer, and I work out to get better in this field. Wel
 
 ### Badges
 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-Intermediate-blue)
 ![ReactJs Badge](https://img.shields.io/badge/ReactJs-Intermediate-blue)
 ![Nextjs Badge](https://img.shields.io/badge/NextJs-Intermediate-blue)
 ![Epressjs Badge](https://img.shields.io/badge/Epressjs-Intermediate-blue)
